@@ -8,13 +8,13 @@
 
 ---
 
-## 📊 Minhas Estatísticas  
+##  Minhas Estatísticas  
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sailerbeatriz&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailerbeatriz&layout=compact&theme=dark"/>
 </div>
 
-## 💻 Trabalho com:
+## Trabalho com:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
